@@ -33,6 +33,7 @@ THEN they fall in sequential order
 
 WHEN I view the title element
 
+
 THEN I find a concise, descriptive title
 
 ## Work Completed
