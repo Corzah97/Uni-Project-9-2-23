@@ -37,7 +37,7 @@ THEN I find a concise, descriptive title
 
 ## Work Completed
 
-Added am descriptive website title
+Added a descriptive website title
 
 Refactored select DIV elements to make use of HTML semantic elements
 
