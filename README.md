@@ -1,5 +1,8 @@
 # Uni-Project-9-2-23
 
+## Description		
+This Challenge i was tasked with a refactoring challenge for a company called Horiseon
+
 ## User Story
 
 AS A marketing agency
@@ -32,3 +35,18 @@ WHEN I view the title element
 
 THEN I find a concise, descriptive title
 
+## Work Completed
+
+Added am descriptive website title
+
+Refactored select DIV elements to make use of HTML semantic elements
+
+Removed unnecessary CSS classes
+
+Consolidated redundant CSS selectors and properties
+
+Re-ordered CSS to follow HTML structure
+
+Added alt attributes to images
+
+Fixed a Broken Navigational Link
