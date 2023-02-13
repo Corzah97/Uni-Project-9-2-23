@@ -55,5 +55,5 @@ Fixed a Broken Navigational Link
 ## Screenshot of Page
 ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/123543548/218381323-b26a60bc-3318-45d7-ac10-493561871eba.png)
 
-## Work Completed
+## Work Done
 By Corey Boughton
